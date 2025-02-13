@@ -13,22 +13,20 @@ A console-based game simulating a Pokemon trainer's journey to catch or battle s
 ## Installation 🛠️
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/pokemon-adventure-simulation.git
-Compile the Code:
+   git clone https://github.com/xmanojpx/pokemon-adventure-simulation.git
+   
+2. **Compile the Code**:
 
 Ensure you have a C++ compiler (e.g., g++).
-
 Navigate to the project directory and compile:
-
-bash
-Copy
+```bash
 g++ main.cpp -o pokemon_game
-Run the Game:
 
-bash
-Copy
+3.**Run the Game**:
+  
 ./pokemon_game
-Usage 🕹️
+
+## Usage 🕹️
 Start the game and choose y to begin.
 
 At each level, encounter a random shape.
@@ -44,13 +42,14 @@ Level 1 - You have encountered a Rectangle!
 What do you want to do? (1) Catch it (2) Battle it
 1
 You throw a Pokeball at the Rectangle...
-The Rectangle has been caught!
-Documentation 📄
+The Rectangle has been caught!|
+
+## Documentation 📄
 UML Diagrams: Descriptions and diagrams (Use Case, Class, Sequence, etc.) are included in the project report.
 
 Project Report: See Document_28_merged.pdf for full details on design, modules, and conclusions.
 
-Future Improvements 🚀
+## Future Improvements 🚀
 Implement battle logic with type-based strengths/weaknesses.
 
 Add Pokemon classes with attributes (HP, attacks).
@@ -59,18 +58,7 @@ Improve UI with ASCII art or color.
 
 Refactor code for modularity and readability.
 
-Contributors 👥
-Aman Varma (@AmanVarma)
-
-Manoj P (@ManojP)
-
-Aadhitiya M (@Aadhitiya)
-
-Heerha V (@Heerha)
-
-Supervised by Dr. Prithi Samuel, Assistant Professor, CINTEL, SRMIST.
-
-References 📚
+## References 📚
 Beginning C++ Through Game Programming by Michael Dawson
 
 C++ Primer by Lippman, Lajoie, and Moo
