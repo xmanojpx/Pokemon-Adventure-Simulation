@@ -14,14 +14,14 @@ A console-based game simulating a Pokemon trainer's journey to catch or battle s
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/xmanojpx/pokemon-adventure-simulation.git
-   
+   ```
 2. **Compile the Code**:
 
-Ensure you have a C++ compiler (e.g., g++).
-Navigate to the project directory and compile:
-   ```bash
-   g++ main.cpp -o pokemon_game
-```
+   Ensure you have a C++ compiler (e.g., g++).
+   Navigate to the project directory and compile:
+    ```bash
+      g++ main.cpp -o pokemon_game
+      ```
 
 3. **Run the Game**:
 
@@ -40,13 +40,13 @@ Complete all 10 levels to win!
 
 Example Output:
 
-Copy
+```bash
 Level 1 - You have encountered a Rectangle!
 What do you want to do? (1) Catch it (2) Battle it
 1
 You throw a Pokeball at the Rectangle...
 The Rectangle has been caught!|
-
+```
 ## Documentation 📄
 UML Diagrams: Descriptions and diagrams (Use Case, Class, Sequence, etc.) are included in the project report.
 
