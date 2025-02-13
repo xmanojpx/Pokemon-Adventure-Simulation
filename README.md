@@ -19,12 +19,15 @@ A console-based game simulating a Pokemon trainer's journey to catch or battle s
 
 Ensure you have a C++ compiler (e.g., g++).
 Navigate to the project directory and compile:
-```bash
-g++ main.cpp -o pokemon_game
+   ```bash
+   g++ main.cpp -o pokemon_game
+```
 
-3.**Run the Game**:
-  
-./pokemon_game
+3. **Run the Game**:
+
+   ```bash
+   ./pokemon_game
+   ```
 
 ## Usage 🕹️
 Start the game and choose y to begin.
